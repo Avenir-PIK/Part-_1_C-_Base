@@ -16,6 +16,7 @@
             // находим целые санты (тотал минус целые метры * 100 (перенос запятой на 2 знака влево)
             int smeters = (int)Math.Floor((totalMetric - meters) * 100);
 
+            // от общего отнимаем всё что нашли, преводим в милимы (*1000) и округляем до одного знака после зарятой, согласно заданию
             double mmeters = Math.Round((totalMetric - meters - smeters / 100.0) * 1000, 1);
 
             Console.WriteLine("{0} дюйма(-ов) это {1} метра(-ов)", inch, totalMetric);
