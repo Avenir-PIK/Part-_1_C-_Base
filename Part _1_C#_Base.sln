@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_2_4_digitSwap", "H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_2_5_PipeRound", "Homework_2_5_PipeRound\Homework_2_5_PipeRound.csproj", "{A0121242-75AE-4225-9CAB-58E5011F2225}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_2_6_round_0,5", "Homework_2_6_round_0,5\Homework_2_6_round_0,5.csproj", "{D4CDAC72-73BA-4A74-9FDC-F42089BE3B9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A0121242-75AE-4225-9CAB-58E5011F2225}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0121242-75AE-4225-9CAB-58E5011F2225}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0121242-75AE-4225-9CAB-58E5011F2225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CDAC72-73BA-4A74-9FDC-F42089BE3B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CDAC72-73BA-4A74-9FDC-F42089BE3B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CDAC72-73BA-4A74-9FDC-F42089BE3B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CDAC72-73BA-4A74-9FDC-F42089BE3B9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
