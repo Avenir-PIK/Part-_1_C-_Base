@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_2_1", "Homework_2_1\Homework_2_1.csproj", "{E0FFFEE1-297C-4051-9AB8-C55FBDE998E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_2_2_radians", "Homework_2_2_radians\Homework_2_2_radians.csproj", "{D2DB9C18-05AF-4070-8C0E-CF83692F8DFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E0FFFEE1-297C-4051-9AB8-C55FBDE998E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0FFFEE1-297C-4051-9AB8-C55FBDE998E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0FFFEE1-297C-4051-9AB8-C55FBDE998E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2DB9C18-05AF-4070-8C0E-CF83692F8DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DB9C18-05AF-4070-8C0E-CF83692F8DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DB9C18-05AF-4070-8C0E-CF83692F8DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DB9C18-05AF-4070-8C0E-CF83692F8DFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
