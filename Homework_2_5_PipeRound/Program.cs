@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.Design.Serialization;
 
-namespace Homework_2_4_digitSwap
+namespace Homework_2_5_PipeRound
 {
     internal class Program
     {

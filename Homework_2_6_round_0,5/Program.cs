@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.Design.Serialization;
 
-namespace Homework_2_4_digitSwap
+namespace Homework_2_6_round_05
 {
     internal class Program
     {

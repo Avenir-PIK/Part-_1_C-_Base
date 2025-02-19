@@ -1,4 +1,4 @@
-﻿namespace Homework_2_1
+﻿namespace Homework_2_3_inches
 {
     internal class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace Homework_2_1
+﻿namespace Homework_2_2_radians
 {
     internal class Program
     {
